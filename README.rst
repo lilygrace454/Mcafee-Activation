@@ -5,9 +5,9 @@ Read the Docs Sphinx Theme
 
 .. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
    :target: https://pypi.python.org/pypi/sphinx_rtd_theme
-   :alt: Pypi Version 
+   :alt: www.mcafee.com/activate
 .. image:: https://travis-ci.org/rtfd/sphinx_rtd_theme.svg?branch=master
-   :target: https://travis-ci.org/rtfd/sphinx_rtd_theme
+   :target: https://mcafeecomactivateretailcard.com
    :alt: Build Status
 .. image:: https://img.shields.io/pypi/l/sphinx_rtd_theme.svg
    :target: https://pypi.python.org/pypi/sphinx_rtd_theme/
