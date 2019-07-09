@@ -16,7 +16,7 @@ Read the Docs Mcafee Activate
   :target: http://sphinx-rtd-theme.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
 
-The ``sphinx_rtd_theme`` is a sphinx_ theme designed mcafee.com/activate_ to look modern and be mobile-friendly.
+The ``sphinx_rtd_theme`` is a sphinx_ theme designed mcafeeactivate_ to look modern and be mobile-friendly.
 This theme is primarily focused to be used on readthedocs.org_ but can work with your
 own sphinx projects. To read more and see a working demo_ head over to readthedocs.org_.
 
@@ -24,7 +24,7 @@ own sphinx projects. To read more and see a working demo_ head over to readthedo
 .. _sphinx: http://www.sphinx-doc.org
 .. _readthedocs.org: http://www.readthedocs.org
 .. _demo: https://sphinx-rtd-theme.readthedocs.io/en/latest/
-.. _mcafee.com/activate: https://mcafeecomactivateretailcard.com
+.. _mcafeeactivate: https://mcafeecomactivateretailcard.com
 
 
 Installing
@@ -41,7 +41,7 @@ For more information read the full installing docs
 
 'mcafee <https://mcafeecomactivateretailcard.com>'_.
 
-
+`mcafee <https://mcafeecomactivateretailcard.com>`__.
 Configuration
 =============
 
