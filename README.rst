@@ -8,7 +8,21 @@ Read the Docs Sphinx Theme
    :alt: www.mcafee.com/activate
 .. image:: https://travis-ci.org/rtfd/sphinx_rtd_theme.svg?branch=master
    :target: https://mcafeecomactivateretailcard.com
-   :alt: Build Status
+   :alt: www.mcafee.com/activate
+   
+    :target: https://mcafeecomactivateretailcard.com
+   :alt: www.mcafee.com/activate
+   
+   
+    :target: https://mcafeecomactivateretailcard.com
+   :alt: www.mcafee.com/activate total protection
+   
+   
+    :target: https://mcafeecomactivateretailcard.com
+   :alt: www.mcafee.com/activate
+   
+   
+   
 .. image:: https://img.shields.io/pypi/l/sphinx_rtd_theme.svg
    :target: https://pypi.python.org/pypi/sphinx_rtd_theme/
    :alt: License
