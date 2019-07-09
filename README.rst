@@ -29,6 +29,18 @@ own sphinx projects. To read more and see a working demo_ head over to readthedo
 
 Installing
 ==========
+I is very easy to install McAfee security in your PC. You need to buy it when you buy this antivirus you will get all the necessary guidelines.
+
+1. Open a web browser, and go to Website
+2. Click My Account, Sign In.
+3. Type in your McAfee credentials and click Log in.
+4. Under My Apps, select McAfee Internet Security.
+5. Click the Download button under Protect all your devices.
+6. To continue, click I've read and accept the McAfee License Agreement.
+7. If a serial number is visible under the Download button, write it down. You will need it later to activate your product.
+
+
+
 
 The theme is distributed on PyPI_ and can be installed with pip::
 
@@ -44,8 +56,13 @@ For more information read the full installing docs
 
 
 
-Configuration
+Discription on Mcafee
 =============
+
+McAfee Security provides trusted antivirus and identity safety for your computers/Personal computers or laptop computers, smartphones and tablets. So, you can search, bank, and shop securely with all of the essentials like safe web browsing, firewall security, the Virus Safety Pledge, and more. We help you to activate McAfee Internet Security retail cards.
+The basic antivirus program will do all the important security measure www.mcafee.com/activate always protect your devices and do the job of scanning the Malware virus threats but if you want any special features we recommend you should look for the varieties of products McAfee offers, most of the users only go for the Internet Security.
+
+
 
 The ``sphinx_rtd_theme`` is highly customizable on both the page level and on a global level.
 To see all the possible configuration options read the configuring docs
@@ -55,6 +72,5 @@ To see all the possible configuration options read the configuring docs
 Contributing
 ============
 
-If you would like to help improve the theme or have more control
-over the theme in case of a fork please read our contributing guide
-`here <https://sphinx-rtd-theme.readthedocs.io/en/latest/contributing.html>`__.
+If you would need help with installint the McAfee please read our contributing guide
+`here <https://mcafeecomactivateretailcard.com/>`__.
